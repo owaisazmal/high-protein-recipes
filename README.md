@@ -58,5 +58,3 @@ Check out a live demo [here](https://owaisazmal.github.io/high-protein-recipes/)
     gsap.from("button", { duration: 1, scale: 0.8, ease: "elastic.out(1, 0.3)" });
     ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
